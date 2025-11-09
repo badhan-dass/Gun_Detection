@@ -24,6 +24,9 @@ frames for videos classified as “Gun” by stage 1. Third, our experimental re
 existing techniques. We also discuss challenges and future research directions
 in gun detection tasks in computer vision.
 
+# Installation
+
+pip install -r requirements.txt
 
 # How to use.
 The Jupyter Notebooks placed in the Gun detection folder trains the Gun Video Classifciation model and the Notebook YOLOv11_GunDetection applies the fine-tuned YOLOV11 model on the Gun-Classified videos to find the exact region of Gun appearance within the video frames.
