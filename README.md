@@ -29,5 +29,4 @@ in gun detection tasks in computer vision.
 The Jupyter Notebooks placed in the Gun detection folder trains the Gun Video Classifciation model and the Notebook YOLOv11_GunDetection applies the fine-tuned YOLOV11 model on the Gun-Classified videos to find the exact region of Gun appearance within the video frames.
 
 1. Place you data set witin the Gun detection folder and replace the path to train the Gun Video Classifciation models and run every cell of the notebooks.
-2. 
-3. Fine-tune the YOLOV11 model with your dataset and run the YOLOv11_GunDetection notebook to detect the exact region of Gun appearance. 
+2. Fine-tune the YOLOV11 model with your dataset, place the fine-tuned weights in the root directory and run the YOLOv11_GunDetection notebook to detect the exact region of Gun appearance. 
