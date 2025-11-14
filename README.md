@@ -6,7 +6,7 @@ Paper Link: https://arxiv.org/pdf/2503.06317?
 
 # Proposed Method Overview
 
-![CHEESE!]
+![CHEESE!](Proposed Method Overview.png)
 
 **Abstract:** Object detection in videos plays a crucial role in advancing applications such as public safety and anomaly detection. Existing methods have explored
 different techniques, including CNN, deep learning, and Transformers, for
