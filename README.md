@@ -4,6 +4,10 @@ This repository is the implementation of the paper **Accurate and Efficient Two-
 
 Paper Link: https://arxiv.org/pdf/2503.06317?
 
+# Proposed Method Overview
+
+![CHEESE!]
+
 **Abstract:** Object detection in videos plays a crucial role in advancing applications such as public safety and anomaly detection. Existing methods have explored
 different techniques, including CNN, deep learning, and Transformers, for
 object detection and video classification. However, detecting tiny objects,
